@@ -1,2 +1,2 @@
 # scripts
-useful bash scripts
+Useful bash scripts.
